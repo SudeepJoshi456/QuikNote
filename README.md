@@ -1,0 +1,2 @@
+# QuikNote
+Django, React application
